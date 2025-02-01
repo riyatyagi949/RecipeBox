@@ -8,15 +8,15 @@ Welcome to RecipeBox! 🍕🍔🥗 This is a React.js web application that allow
 
 🖥️ Tech Stack
 
-# React.js ⚛️
+ React.js ⚛️
 
-# TheMealDB API 🍲
+ TheMealDB API 🍲
 
-# Tailwind CSS 🎨
+ Tailwind CSS 🎨
 
-# JavaScript (ES6+) 💻
+ JavaScript (ES6+) 💻
 
-# Axios for API calls 🔗
+ Axios for API calls 🔗
 
 🎯 How to Use
 
@@ -52,10 +52,8 @@ This project uses TheMealDB API to fetch recipes. You can explore their document
 
 Contributions are welcome! If you want to improve RecipeBox, feel free to fork the repository and create a pull request. 😊
 
-
-
 📢 Connect with Me
 
-💻 GitHub: @riyatyag  Email: tyagiriya517@gmail.com
+💻 GitHub: @riyatyag   Email: tyagiriya517@gmail.com
 🌟 If you like this project, don't forget to star ⭐ the repository!
 
