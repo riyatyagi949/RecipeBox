@@ -4,7 +4,17 @@ Welcome to RecipeBox! 🍕🍔🥗 This is a React.js web application that allow
 
 🚀 Features
 
-✅ Search for recipes by name 🔍✅ Filter recipes by category and area 🌎✅ View detailed recipe instructions 📖✅ Watch instructional YouTube videos 🎥✅ Mobile-friendly & responsive design 📱✅ Smooth and interactive UI with React.js ⚛️
+✅ Search for recipes by name
+
+🔍✅ Filter recipes by category and area 
+
+🌎✅ View detailed recipe instructions 
+
+📖✅ Watch instructional YouTube videos 
+
+🎥✅ Mobile-friendly & responsive design 
+
+📱✅ Smooth and interactive UI with React.js ⚛️
 
 🖥️ Tech Stack
 
