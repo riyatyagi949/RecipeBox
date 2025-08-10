@@ -6,15 +6,15 @@ Welcome to RecipeBox! 🍕🍔🥗 This is a React.js web application that allow
 
 ✅ Search for recipes by name
 
-🔍✅ Filter recipes by category and area 
+✅ Filter recipes by category and area 
 
-🌎✅ View detailed recipe instructions 
+✅ View detailed recipe instructions 
 
-📖✅ Watch instructional YouTube videos 
+✅ Watch instructional YouTube videos 
 
-🎥✅ Mobile-friendly & responsive design 
+✅ Mobile-friendly & responsive design 
 
-📱✅ Smooth and interactive UI with React.js ⚛️
+✅ Smooth and interactive UI with React.js 
 
 🖥️ Tech Stack
 
@@ -56,7 +56,13 @@ This project uses TheMealDB API to fetch recipes. You can explore their document
 
 🛠️ Future Enhancements
 
-🚀 Add user authentication & favorite recipes🚀 Implement a meal planner feature🚀 Improve UI with animations & transitions🚀 Dark mode support 🌙
+🚀 Add user authentication & favorite recipes
+
+🚀 Implement a meal planner feature
+
+🚀 Improve UI with animations & transitions
+
+🚀 Dark mode support 🌙
 
 🤝 Contributing
 
